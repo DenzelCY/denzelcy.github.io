@@ -642,16 +642,13 @@ box-shadow: 0 4px 15px rgba(173, 216, 230, 0.7);
 }
 
 /* Custom widths with delay for effect */
-.fill.html { animation-delay: 0.2s; width: 90%; }
-.fill.css { animation-delay: 0.4s; width: 80%; }
-.fill.vb { animation-delay: 0.6s; width: 75%; }
-.fill.python { animation-delay: 0.8s; width: 60%; }
-.fill.cpp { animation-delay: 1s; width: 50%; }
-.fill.powerpoint { animation-delay: 0.2s; width: 85%; }
-.fill.excel     { animation-delay: 0.4s; width: 80%; }
-.fill.word      { animation-delay: 0.6s; width: 75%; }
-.fill.figma     { animation-delay: 0.8s; width: 50%; }
-.fill.canva     { animation-delay: 1s; width: 65%; }
+.fill.html { animation-delay: 0.2s; width: 10%; }
+.fill.python { animation-delay: 0.4s; width: 0.1%; }
+.fill.vd { animation-delay: 0.6s; width: 50%; }
+.fill.pt { animation-delay: 0.8s; width: 50%; }
+.fill.ulam { animation-delay: 1s; width: 100%; }
+.fill.ml { animation-delay: 0.8s; width: 50%; }
+.fill.codm { animation-delay: 1s; width: 100%; }
 
 
 
